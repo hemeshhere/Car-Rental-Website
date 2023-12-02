@@ -1,0 +1,71 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    background: url("img/contactus2.jpg");
+    height: 100%;
+    width: 100%;
+    position:absolute;
+    background-position: left;
+    background-size: cover ;
+    
+}
+.box-area{
+    width: 570px;
+    left: 400px;
+    height: 561px;
+    position: relative;
+    background: #352F44;
+    border-radius: 9px;
+    margin-left:22%;
+    margin-top: -2%;
+}
+.heading{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(237, 241, 242);
+}
+.input-head{
+    font-size: 20px;
+    margin-left: 10px;
+    color: #B9B4C7;     
+}
+.input{
+    text-align: center;
+    width: 150px;
+    height: 20px;
+    border-radius: 8px;
+    border-color: #5C5470;
+}
+.input-ques{
+    height: 100px;
+    width: 500px;
+    margin-left: 10px;
+    color: #5C5470;
+    
+}
+.submit-btn{
+    width:80%;
+    padding:10px 30px;
+    cursor:pointer;
+    display: block;
+    margin:auto;
+    background:#FAF0E6;
+    border-radius: 17px;
+    border: none;
+    margin-top: 22px;
+    color: #352F44;
+    border: solid #5C5470 3px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.logo-pic {
+    margin: 30px auto;
+    text-align: left;
+}
+.logo-pic img {
+    width: 88px;
+    margin: -29px 2px;
+    cursor: pointer;
+    border-radius: 8%;
+}

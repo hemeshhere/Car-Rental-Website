@@ -1,0 +1,120 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    background-image: url("img/MainBackground.jpg");
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+.navigation ul {
+    left: 832px;
+    margin: 18px;
+    margin-left: 12px;
+    padding: 0%;
+    position: top-right;
+    font-size: 20px;
+}
+.navi li {
+    display: inline-block;
+    margin: 0 -4px;
+}
+.navi a {
+    background: #352F44;
+    color: #FAF0E6;
+    padding: 11px 22px;
+    text-decoration: none;
+}
+.navi li:first-child a {
+    border-radius: 4px 0 0 4px;
+}
+.navi li:last-child a {
+    border-radius: 0 4px 4px 0;
+}
+.box {
+    left: 800px;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    background: #5C5470;
+    margin: 5%;
+    padding: 5px;
+    border-radius: 15px;
+}
+.heading {
+    color: #FAF0E6;
+    text-align: center;
+    font-weight: 500;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 5px;
+}
+.input-location {
+    padding: 4px;
+    background: transparent;
+    width: 300px;
+    height: 30px;
+    margin-left: 80px;
+    border-radius: 8px;
+    border-color: rgb(11, 11, 11);
+}
+::-webkit-input-placeholder{
+    text-align: center;
+    color: black;
+}
+.pickup {
+    text-align: center;
+    width: 130px;
+    height: 30px;
+    border-radius: 8px;
+    margin-top: 10px;
+    color: #352F44;
+}
+
+.pick-up {
+    color: #201d29;
+    font-size: 25px;
+    
+}
+.pickup-time {
+    width: 100px;
+    height: 30px;
+    border-radius: 8px;
+    margin-top: 20px;
+    color: #352F44;
+    
+}
+.pickuptime{
+    color: #221f2b;
+    font-size: 25px;
+}
+.submit-btn{
+    width:80%;
+    padding:10px 30px;
+    cursor:pointer;
+    display: block;
+    margin:auto;
+    background:#FAF0E6;
+    border-radius: 17px;
+    border: none;
+    margin-top: 22px;
+    color: #352F44;
+    border: solid #5C5470 3px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+.marquee{
+    color: #FAF0E6;
+    font-family: sans-serif;
+    font-stretch:narrower;
+    font-style: oblique;
+}
+.check-box{
+    color: #FAF0E6;
+    font-size: 18px;
+    padding-left: 15px;
+}

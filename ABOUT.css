@@ -1,0 +1,29 @@
+.logo-pic {
+    margin: 30px auto;
+    text-align: left;
+    
+   
+}
+    .logo-pic img {
+    width: 88px;
+    margin: -29px 2px;
+    cursor: pointer;
+    border-radius: 8%;
+    background-color: #FAF0E6;
+}
+.heading{
+    text-align: center;
+    font-size: 55px;
+}
+.p1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 23px;
+}
+.list{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    background-color: #FAF0E6;
+}
+.main{
+    background-color: #FAF0E6;
+}

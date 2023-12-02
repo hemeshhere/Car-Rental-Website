@@ -1,0 +1,146 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+.heading{
+    text-align: center;
+    color: #352F44;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-weight: 300;
+    text-decoration: underline #B9B4C7;
+    
+}
+.logo-pic {
+    margin: 50px auto;
+    text-align: top-left;
+}
+    .logo-pic img {
+    width: 98px;
+    margin: -49px 2px;
+    cursor: pointer;
+
+}
+.background{
+    background-image: url("img/carselectorbg.jpg");
+    height: 90%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    filter: blur(3px);
+}
+.img-1{
+    margin: 30px auto;
+    text-align: left
+}
+.img-1 img{
+    margin-top: 32px;
+    margin-left: 96px;
+    margin-right: 133px;
+    margin-bottom: -83px;
+    width: 310px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+.img-2{
+    margin: 30px auto;
+    text-align: left
+}
+.img-2 img{
+    margin-top: -183px;
+    margin-left: 35%;
+    margin-right: -26px;
+    margin-bottom: -39px;
+    width: 413px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+.img-3{
+    margin: 30px auto;
+    text-align: left
+}
+.img-3 img{
+    margin-top: -260px;
+    margin-left: 69%;
+    margin-right: 15px;
+    margin-bottom: 13px;
+    width: 399px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+.img-4{
+    margin: 30px auto;
+    text-align: left
+}
+.img-4 img{
+    margin-top: -3px;
+    margin-left: 91px;
+    margin-right: 100px;
+    margin-bottom: 73px;
+    width: 316px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+.img-5 img{
+    margin: 30px auto;
+    text-align: left
+    
+}
+.img-5 img{
+    margin-top: -343px;
+    margin-left: 35%;
+    margin-right: 112px;
+    margin-bottom: 125px;
+    width: 430px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+.img-6{
+    margin: 30px auto;
+    text-align: left
+}
+.img-6 img{
+    margin-top: -26%;
+    margin-left: 69%;
+    margin-right: 73px;
+    margin-bottom: 164px;
+    width: 384px;
+    cursor: pointer;
+    border-radius: 12px;
+}    
+.img-7 img{
+
+    margin-top: -145px;
+    margin-left: 91px;
+    margin-right: 100px;
+    margin-bottom: 73px;
+    width: 316px;
+    cursor: pointer;
+    border-radius: 12px;
+
+}
+.img-8 img{
+    margin-top: -315px;
+    margin-left: 35%;
+    margin-right: 212px;
+    margin-bottom: 325px;
+    width: 430px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+.img-9 img{
+    margin-top: -70%;
+    margin-left: 69%;
+    margin-right: 73px;
+    margin-bottom: 344px;
+    width: 384px;
+    cursor: pointer;
+    border-radius: 12px;
+}
